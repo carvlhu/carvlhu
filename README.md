@@ -1,6 +1,7 @@
 ## Boa para nós, eu sou o Rafael Carvalho! 🤙
 ### Gráfico GitHub status
-![Carvlhu GitHub stats](https://github-readme-stats.vercel.app/api?username=carvlhu&show_icons=true&theme=dark)
+[![Carvlhu GitHub stats](https://github-readme-stats.vercel.app/api?username=carvlhu)](https://github.com/carvlhu/github-readme-stats)
+
 
 
 <div style="display: inline_block">
@@ -13,4 +14,4 @@
 </div>
 
 ## Projeto mais recente:
- - [Adequate Nutrition - Saúde, Alimentação e Musculação](https://github.com/carvlhu/Adequate-Nutrition)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carvlhu&repo=Adequate-Nutrition)](https://github.com/carvlhu/Adequate-Nutrition)
