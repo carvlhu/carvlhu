@@ -15,4 +15,4 @@
 </div>
 
 ## Projeto mais recente:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carvlhu&repo=Adequate-Nutrition)](https://github.com/carvlhu/Calculadora)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carvlhu&repo=Calculadora)](https://github.com/carvlhu/Calculadora)
