@@ -1,4 +1,4 @@
-## Boa para nós, eu sou o Rafael Carvalho! 🤙
+## Olá, eu sou o Rafael Carvalho! 🤙
 ### Gráfico GitHub status
 [![Carvlhu GitHub stats](https://github-readme-stats.vercel.app/api?username=carvlhu)](https://github.com/carvlhu/github-readme-stats)
 
@@ -20,4 +20,4 @@
 </div>
 
 ## Projeto mais recente:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carvlhu&repo=Adequate-Nutrition)](https://github.com/carvlhu/Adequate-Nutrition)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carvlhu&repo=4M-BURGUER)](https://github.com/carvlhu/4M-BURGUER)
