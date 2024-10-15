@@ -1,7 +1,16 @@
-## Olá, eu sou o Rafael Carvalho! 🤙
-### Gráfico GitHub status
-[![Carvlhu GitHub stats](https://github-readme-stats.vercel.app/api?username=carvlhu)](https://github.com/carvlhu/github-readme-stats)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=140&section=header"/>
+<h2 align="center">Olá, eu sou o Rafael Carvalho!</h2>
+<h3 align="center">Um programador em desenvolvimento...</h3>
 
+<div align="center">
+<h3>Gráfico GitHub status</h3>
+
+[![Carvlhu GitHub stats](https://github-readme-stats.vercel.app/api?username=carvlhu&theme=highcontrast&show_icons=true&icon_color=fff&hide_border=true&title_color=fff)](https://github.com/carvlhu/github-readme-stats)
+
+</div>
+
+
+<div align="center">
 
 ## Ferramentas e Tecnologias
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -22,6 +31,4 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-
-## Projeto mais recente:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carvlhu&repo=4M-BURGUER)](https://github.com/carvlhu/4M-BURGUER)
+</div>
