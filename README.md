@@ -5,7 +5,7 @@
 <div align="center">
 <h3>Gráfico GitHub status</h3>
 
-[![Carvlhu GitHub stats](https://github-readme-stats.vercel.app/api?username=carvlhu&theme=highcontrast&show_icons=true&icon_color=fff&hide_border=true&title_color=fff)](https://github.com/carvlhu/github-readme-stats)
+![GitHub Stats](https://ghstats.dev/api/card?username=carvlhu)
 
 </div>
 
