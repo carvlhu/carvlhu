@@ -3,10 +3,8 @@
 <h3 align="center">Um programador em desenvolvimento...</h3>
 
 <div align="center">
-<h3>Gráfico GitHub status</h3>
-
-![GitHub Stats](https://ghstats.dev/api/card?username=carvlhu)
-
+  
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 </div>
 
 
